@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jdaiil.github.io/website/about.html</loc>
-    <lastmod>2023-06-20T01:58:47.818Z</lastmod>
+    <lastmod>2023-06-20T02:02:51.704Z</lastmod>
   </url>
   <url>
     <loc>https://jdaiil.github.io/website/blog.html</loc>
-    <lastmod>2023-06-20T01:58:48.101Z</lastmod>
+    <lastmod>2023-06-20T02:02:52.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jdaiil.github.io/website/index.html</loc>
+    <lastmod>2023-06-20T02:02:52.315Z</lastmod>
   </url>
   <url>
     <loc>https://jdaiil.github.io/website/publication.html</loc>
-    <lastmod>2023-06-20T01:58:48.681Z</lastmod>
+    <lastmod>2023-06-20T02:02:52.616Z</lastmod>
   </url>
   <url>
     <loc>https://jdaiil.github.io/website/research.html</loc>
-    <lastmod>2023-06-20T01:58:48.934Z</lastmod>
+    <lastmod>2023-06-20T02:02:52.899Z</lastmod>
   </url>
 </urlset>
