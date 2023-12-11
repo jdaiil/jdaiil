@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Reserach",
+    "section": "",
+    "text": "My research interest ~~~"
+  },
+  {
+    "objectID": "research.html#research-1",
+    "href": "research.html#research-1",
+    "title": "Reserach",
+    "section": "",
+    "text": "My research interest ~~~"
+  },
+  {
+    "objectID": "research.html#research-2",
+    "href": "research.html#research-2",
+    "title": "Reserach",
+    "section": "Research 2",
+    "text": "Research 2"
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Home\n    Publications\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n  \n    Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen\n    Jun, Daiil,& Fazzino,Tera\n    International Journal of Environmental Research and Public Health\n    (2023)\n    \n      Details\n    \n    \n      DOI\n    \n    \n       Materials\n    \n  \n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Daiil Jun",
@@ -12,13 +40,6 @@
     "title": "Daiil Jun",
     "section": "",
     "text": "Welcome to my website!\nI am Daiil (pronounced Dale) who is currently a Ph.D student in Clinical Psychological Science at the University of Kansas. I am originally from Seoul, South Korea. My research interest is applying advanced statistical methods to understanding addictive behaviors. Especially, I am interested in cross-sensitization across different addictive behaviors. Currently, my research is mostly about understanding shared mechanism of eating hyper-palatable foods and addiction."
-  },
-  {
-    "objectID": "publication.html",
-    "href": "publication.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Home\n    Publications\n  \n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n  \n    Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen\n    Jun, Daiil,& Fazzino,Tera\n    International Journal of Environmental Research and Public Health\n    (2023)\n    \n      Details\n    \n    \n      DOI\n    \n    \n       Materials\n    \n  \n\n\nNo matching items"
   },
   {
     "objectID": "publications/daiil.2023.html",
@@ -40,26 +61,5 @@
     "title": "Associations between Alcohol-Free Sources of Reinforcement and the Frequency of Alcohol and Cannabis Co-Use among College Freshmen",
     "section": "Abstract",
     "text": "Abstract\nCo-use of alcohol and cannabis is common among young adults in the United States. A behavioral economics framework indicates that greater engagement in substance-free sources of reinforcement may be protective against co-use frequency. The current study tested the association between proportionate alcohol-free reinforcement and the frequency of co-use among college freshmen. Participants (N = 86) were freshmen who enrolled in a freshman orientation course and completed surveys at the beginning of the semester. Past month alcohol use, cannabis use, and reinforcement from alcohol-free and alcohol-involved activities were assessed. A zero-inflated Poisson regression was used to test the association between proportionate alcohol-free reinforcement and days of co-use. The results indicated that proportionate alcohol-free reinforcement was negatively associated with co-use days in the count model when controlling for alcohol use days and gender as covariates (β: −3.28, p = 0.016). Proportionate alcohol-free reinforcement did not significantly differentiate individuals who did not engage in co-use in the zero-inflated model (β: −1.68, p = 0.497). The study suggested that greater proportionate alcohol-free reinforcement may be associated with lower engagement in the co-use of alcohol and cannabis among young adults. Increasing engagement in alcohol-free sources of reinforcement may be considered a target for co-use prevention or harm reduction efforts."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Reserach",
-    "section": "",
-    "text": "My research interest ~~~"
-  },
-  {
-    "objectID": "research.html#research-1",
-    "href": "research.html#research-1",
-    "title": "Reserach",
-    "section": "",
-    "text": "My research interest ~~~"
-  },
-  {
-    "objectID": "research.html#research-2",
-    "href": "research.html#research-2",
-    "title": "Reserach",
-    "section": "Research 2",
-    "text": "Research 2"
   }
 ]
