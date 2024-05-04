@@ -1,0 +1,26 @@
+---
+title: "Daiil Jun"
+about:
+  template: jolla
+  image: jun_daiil.webp
+  links:
+    - icon: person-workspace
+      text: Health Behavior Techonology Lab
+      href: https://fazzinolab.ku.edu/
+    - icon: person-workspace
+      text: AffCom Lab
+      href: https://affcom.ku.edu/
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=t6o0sOoAAAAJ&hl=en&oi=ao
+    - icon: envelope
+      text: Email
+      href: "mailto:jdaiil@ku.edu"
+    - icon: file-person-fill
+      text: CV
+      href: https://kansas-my.sharepoint.com/:b:/g/personal/d497j944_home_ku_edu/EVNbsVhsJphOqefnUSAvU4UB7HhZJJceXkaJD_Sv6QCCgQ?e=a2g8A1
+---
+
+Welcome to my website!
+
+I am Daiil (pronounced Dale) who is currently a Ph.D student in Clinical Psychological Science at the University of Kansas. Currently, I am under dual mentorship from Dr. Fazzino and Dr. Girard. My research interest is understanding mechanisms of addictive behaviors, specifically factor structure and heterogeneity of craving experience. For methodology, I am highly interested in ecological momentary assessment (EMA), which can nicely be leveraged by using Bayesian framework and predictive modeling. 

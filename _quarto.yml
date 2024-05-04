@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+excute:
+  freeze: auto
+website:
+  title: "Daiil Jun"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - publication.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
